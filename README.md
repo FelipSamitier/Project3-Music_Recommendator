@@ -1,4 +1,8 @@
-# Project3-Music_Recommendator
+# Music Recommendator
+
+*[Felip Samitier Jerez]*
+
+*[DA, Barcelona & 2021]*
 
 ## Content
 
@@ -9,7 +13,9 @@
 
 ## Project Description
 
-⦁	This project consists of given a song, recommend another song that fits your context
+⦁	This project is based on a song given by the user. If this song is among the 100 "Top" songs, it returns a recommendation from this list, otherwise, it extracts the characteristics of the song, classifies it in a group of "Clusters", returns a song from the same "Cluster" and with similar characteristics.
+
+As an extra, we have added a context to the music recommender, i.e. the user can choose for which situation he/she is going to listen to that song. Recommending a song that fits the context and the characteristics of the song entered by the user.
 
 ## Workflow
 
